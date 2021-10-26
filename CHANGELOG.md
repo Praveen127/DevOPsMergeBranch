@@ -1,0 +1,35 @@
+## 0.1.0 (October 26, 2021)
+  - commit from newDevelopmentBranch: five
+  - commit from newDevelopmentBranch: two
+  - commit from newDevelopmentBranch: one
+  - Merge branch 'SystemTest'
+  - comming new changes in SystemTest merge.txt: 500
+  - comming new changes in SystemTest merge.txt: 400
+  - comming new changes in SystemTest merge.txt: 300
+  - comming new changes in SystemTest merge.txt: 200
+  - comming new changes in SystemTest merge.txt: 100
+  - comming new changes merge.txt: eight
+  - comming new changes merge.txt: seven
+  - comming new changes merge.txt: six
+  - update merge.txt
+  - comming new changes merge.txt: five
+  - comming new changes merge.txt: four
+  - comming new changes merge.txt: three
+  - comming new changes merge.txt: two
+  - comming new changes merge.txt: one
+  - comming from main branch 3rd
+  - comming from main branch 2nd
+  - comming from main branch 1st
+  - comming from SystemTest branch 8th
+  - comming from SystemTest branch 7th
+  - comming from SystemTest branch 6th
+  - comming from SystemTest branch 5th
+  - comming from SystemTest branch 4th
+  - Merge branch 'SystemTest'
+  - comming from SystemTest branch 3rd
+  - comming from merge branch
+  - comming from SystemTest branch 2nd
+  - Adding a test file to SystemTest
+  - Adding a test file to new_branch
+  - first commit
+
