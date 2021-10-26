@@ -7,7 +7,15 @@ new changes to merge.txt: two
 new changes to merge.txt: three
 new changes to merge.txt: four
 new changes to merge.txt: five
+<<<<<<< HEAD
 >>>>>>> SystemTest
 new changes to merge.txt: six
 new changes to merge.txt: seven
 new changes to merge.txt: eight
+=======
+new changes to merge.txt: 100
+new changes to merge.txt: 200
+new changes to merge.txt: 300
+new changes to merge.txt: 400
+new changes to merge.txt: 500
+>>>>>>> SystemTest
