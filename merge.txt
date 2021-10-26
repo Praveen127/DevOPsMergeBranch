@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 editing merge from main 3rd
+=======
+editing from main 8th
+new changes to merge.txt: one
+new changes to merge.txt: two
+new changes to merge.txt: three
+new changes to merge.txt: four
+new changes to merge.txt: five
+>>>>>>> SystemTest
