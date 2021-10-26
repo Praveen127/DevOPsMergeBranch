@@ -21,3 +21,6 @@ new changes to merge.txt: 500
 >>>>>>> SystemTest
 update from newDevelopmentBranch: one
 update from newDevelopmentBranch: two
+update from newDevelopmentBranch: three
+update from newDevelopmentBranch: four
+update from newDevelopmentBranch: five
