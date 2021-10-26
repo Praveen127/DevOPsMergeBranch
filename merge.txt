@@ -1,2 +1,3 @@
 editing from main 8th
 new changes to merge.txt: one
+new changes to merge.txt: two
